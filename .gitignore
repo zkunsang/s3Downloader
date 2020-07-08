@@ -1,0 +1,4 @@
+node_modules
+s3Config.json
+dist
+.vscode
